@@ -2,7 +2,7 @@
   "name": "app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://crisoforo.github.io/clicky-game/",
+  "homepage": "https://noslumas.github.io/clickygame/",
   "dependencies": {
     "axios": "^0.18.0",
     "gh-pages": "^2.0.1",
